@@ -1,0 +1,12 @@
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.exe
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.exe.config
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.csproj.CoreCompileInputs.cache
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.exe
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.pdb
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.pdb
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.exe.config
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.exe
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\bin\Debug\ExamenAHijo.pdb
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.exe
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenAHijo\obj\Debug\ExamenAHijo.pdb

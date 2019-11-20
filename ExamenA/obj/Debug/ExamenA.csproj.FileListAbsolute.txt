@@ -1,0 +1,13 @@
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\bin\Debug\ExamenA.exe.config
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\bin\Debug\ExamenA.exe
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\bin\Debug\ExamenA.pdb
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\obj\Debug\ExamenA.csproj.CoreCompileInputs.cache
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\obj\Debug\ExamenA.exe
+D:\JorgeFernandez\PROG_SERVICIOS_PROCESOS\UD02 Programación Multiproceso\ExamenA\ExamenA\obj\Debug\ExamenA.pdb
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\bin\Debug\ExamenA.exe.config
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\bin\Debug\ExamenA.exe
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\bin\Debug\ExamenA.pdb
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\obj\Debug\ExamenA.csprojAssemblyReference.cache
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\obj\Debug\ExamenA.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\obj\Debug\ExamenA.exe
+D:\InakiAlkiza\PROG_SERVICIOS_PROCESOS\Examen_Pipes-master\ExamenA\ExamenA\obj\Debug\ExamenA.pdb
